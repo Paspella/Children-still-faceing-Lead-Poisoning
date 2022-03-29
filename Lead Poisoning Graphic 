@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>New York Children still faceing Lead Poisoning</h1>
+<p> by Peyton Spellacy on March 27, 2022</p>
+
+<p><b>Over the years, kids have been increasingly testing positive for lead poisoning. Syracuse could be seeing even more postive test with the deomolition of I-81.</b></p>
+
+<iframe title="Positive Lead Poisoning Tests Over the Years (in thousands) " aria-label="Interactive line chart" id="datawrapper-chart-6dr2J" src="https://datawrapper.dwcdn.net/6dr2J/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+
+<a href="https://health.data.ny.gov/Health/Childhood-Blood-Lead-Testing-and-Elevated-Incidenc/d54z-enu8">Orginal Childhood Blood Lead Testing Data</a>
